@@ -2,8 +2,8 @@
 Changelog for package lolo_webgui
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.2 (2022-04-05)
+------------------
 * Updated package.xml
 * Update lolo_webgui.rosinstall
 * Merge remote-tracking branch 'origin/master'
